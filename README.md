@@ -36,7 +36,6 @@
   - 알림 스케줄링
     - Spring Scheduler 사용 (BackEnd)
       - 일정시간 내 급여되지 않은 밥그릇의 사용자 확인 및 알림 전송
-  - QR 코드 등록시 사용자 Grouping
   
 <br>
 
